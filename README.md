@@ -23,10 +23,10 @@ Experiments can be carried out on <a href="https://jupyter.org/">Jupyter noteboo
     <a href="https://api.dotlas.com/docs"><b>API Documentation</b></a> •
     <a href="mailto:info@dotlas.com"><b>Email</b></a> •
     <a href="https://www.linkedin.com/company/76513297"><b>LinkedIn</b></a>
-</p>  
+</p>
 
 ## 🗂 Index
 
-| 📓 Study Title | 👷🏾‍♀️ Contributors | 📆 Timestamp |
-| --- | --- | --- |
-| [Site Selection Case Study - Mexican Restaurants in the US](./case-studies/20220815_kunal_bhatia/README.md) | [Kunal Bhatia](https://github.com/kunalb541) | `2022-08-15`
+| 📓 Study Title                                                                                    | 👷🏾‍♀️ Contributors                              | 📆 Timestamp |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------ |
+| [Site Selection Case Study - Mexican Restaurants in the US](./case-studies/20220815_kunal_bhatia) | [Kunal Bhatia](https://github.com/kunalb541) | `2022-08-15` |
