@@ -16,6 +16,8 @@ Experiments can be carried out on <a href="https://jupyter.org/">Jupyter noteboo
 [![License](https://img.shields.io/badge/license-MIT-green)](https://img.shields.io/badge/license-MIT-green) 
 [![Python version](https://img.shields.io/badge/python-v3.9-blue)](https://img.shields.io/badge/python-v3.9-blue)
 
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
 </div>
 
 <p align="center">
