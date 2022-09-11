@@ -64,6 +64,9 @@ Note that these are boilerplate questions can be modified / extended based on th
 * Mark locations that would not be worth the "bang for buck" under this paradigm
 
 #### Key Endpoints
+* [`https://api.dotlas.com/competition/nearby/{commercial_type}`](https://api.dotlas.com/docs#tag/Competition/operation/nearby_outlets_competition_nearby__commercial_type__get)
+* [`https://api.dotlas.com/competition/brands/{city}/{commercial_type}`](https://api.dotlas.com/docs#tag/Competition/operation/select_brands_competition_brands__city___commercial_type__get)
+* [`https://api.dotlas.com/competition/insights/brands/{city}/{commercial_type}`](https://api.dotlas.com/docs#tag/Competition/operation/city_brands_stats_competition_insights_brands__city___commercial_type__get)
 
 ### 📍 Site Selection
 
